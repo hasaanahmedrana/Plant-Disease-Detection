@@ -10,10 +10,24 @@ Plant diseases cause significant agricultural losses globally. Early and accurat
 
 ---
 
-📦 Plant-Disease-Detection/
-├── app1.py # Streamlit web app
-├── plant_disease_model.h5 # Trained Keras model (MobileNetV2)
-├── class_names.json # List of class labels used by the model
-├── Model-Training.ipynb # Jupyter notebook for model training
-├── requirements.txt # List of required Python packages
 
+
+### How to Run the App
+
+```bash
+
+
+# Clone using HTTPS
+git clone https://github.com/your-username/Plant-Disease-Detection.git
+
+# OR using SSH (if you have SSH keys setup)
+git clone git@github.com:your-username/Plant-Disease-Detection.git
+
+# Navigate to project directory
+cd Plant-Disease-Detection
+
+# Install dependencies (if not already done)
+pip install -r Requirements.txt
+
+# Launch the Streamlit app
+streamlit run app1.py
