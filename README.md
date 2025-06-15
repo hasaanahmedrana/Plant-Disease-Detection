@@ -10,5 +10,10 @@ Plant diseases cause significant agricultural losses globally. Early and accurat
 
 ---
 
+📦 Plant-Disease-Detection/
+├── app1.py # Streamlit web app
+├── plant_disease_model.h5 # Trained Keras model (MobileNetV2)
+├── class_names.json # List of class labels used by the model
+├── Model-Training.ipynb # Jupyter notebook for model training
+├── requirements.txt # List of required Python packages
 
-<pre lang="markdown"> ``` 📦 Plant-Disease-Detection/ ├── app1.py # Streamlit web app ├── plant_disease_model.h5 # Trained Keras model (MobileNetV2) ├── class_names.json # List of class labels used by the model ├── Model-Training.ipynb # Jupyter notebook for model training ├── requirements.txt # List of required Python packages ``` </pre>
