@@ -21,6 +21,11 @@ Plant diseases cause significant agricultural losses globally. Early and accurat
 
 ### How to Run the App
 
+#### Prerequisites
+- Python 3.8+
+- pip/conda
+
+#### Dependencies:
 ```bash
 # Clone using HTTPS
 git clone https://github.com/your-username/Plant-Disease-Detection.git
